@@ -1,0 +1,11 @@
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\netcoreapp2.2\Conceitos-CSharp.csprojAssemblyReference.cache
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\netcoreapp2.2\Conceitos-CSharp.csproj.CoreCompileInputs.cache
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\netcoreapp2.2\Conceitos-CSharp.AssemblyInfoInputs.cache
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\netcoreapp2.2\Conceitos-CSharp.AssemblyInfo.cs
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\netcoreapp2.2\Conceitos-CSharp.deps.json
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\netcoreapp2.2\Conceitos-CSharp.runtimeconfig.json
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\netcoreapp2.2\Conceitos-CSharp.runtimeconfig.dev.json
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\netcoreapp2.2\Conceitos-CSharp.dll
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\bin\Debug\netcoreapp2.2\Conceitos-CSharp.pdb
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\netcoreapp2.2\Conceitos-CSharp.dll
+C:\projects\mentoria\paulo\conceitos-c#\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\netcoreapp2.2\Conceitos-CSharp.pdb
